@@ -25,7 +25,7 @@ cd <project_root>
 poetry install
 ```
 
-You should now be able to run the Jupyter notebooks (`reannotation_study/Reannotation Study Analysis.ipynb` and `Multi Template Instance Investigations.ipynb`), as well as the model prediction evaluation script (`third_party/eval.py`) used to produce the results in the paper. See the READMEs in each subdirectory of the project root for more information.
+You should now be able to run the Jupyter notebooks (`reannotation_study/Reannotation Study Analysis.ipynb` and `Document Selection and Analysis.ipynb`), as well as the model prediction evaluation script (`third_party/eval.py`) used to produce the results in the paper. See the READMEs in each subdirectory of the project root for more information.
 
 
 ## Questions and Issues
