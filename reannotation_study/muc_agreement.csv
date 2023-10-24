@@ -1,0 +1,25 @@
+,template_type,setting,total documents,total documents with template type,nominal alpha,ratio alpha
+0,arson,at least one template (annotator only),9,9,0.5806451612903226,0.483619344773791
+1,arson,at least one template (+gold),9,9,0.35185185185185175,0.3544759334233021
+2,arson,multiple templates (annotator only),1,9,0.0,0.0
+3,arson,multiple templates (+gold),1,9,0.0,0.0
+4,attack,at least one template (annotator only),10,10,0.4368932038834952,0.3848093533642054
+5,attack,at least one template (+gold),10,10,0.4162348877374783,0.3146883695623969
+6,attack,multiple templates (annotator only),7,10,0.31034482758620685,0.2818864077854053
+7,attack,multiple templates (+gold),7,10,0.257142857142857,0.14263343831158615
+8,bombing,at least one template (annotator only),10,10,0.8152866242038217,0.9466810351458654
+9,bombing,at least one template (+gold),10,10,0.6614583333333333,0.6746655022439231
+10,bombing,multiple templates (annotator only),7,10,0.7647058823529411,0.936865006108955
+11,bombing,multiple templates (+gold),7,10,0.55,0.5884330537196621
+12,kidnapping,at least one template (annotator only),10,10,0.8053691275167785,0.9859002652095142
+13,kidnapping,at least one template (+gold),10,10,0.7337057728119181,0.9561304875685908
+14,kidnapping,multiple templates (annotator only),6,10,0.711864406779661,0.9787781878973595
+15,kidnapping,multiple templates (+gold),6,10,0.5804311774461028,0.9312065422107494
+16,robbery,at least one template (annotator only),3,3,1.0,1.0
+17,robbery,at least one template (+gold),3,3,1.0,1.0
+18,robbery,multiple templates (annotator only),0,3,1.0,1.0
+19,robbery,multiple templates (+gold),0,3,1.0,1.0
+20,total,at least one template (annotator only),42,42,0.6318114874815906,0.6761478596280943
+21,total,at least one template (+gold),42,42,0.5590632533578235,0.6595731543576185
+22,total,multiple templates (annotator only),21,42,0.5140431090790333,0.5241985173727699
+23,total,multiple templates (+gold),21,42,0.3938606263151382,0.44910676290839924

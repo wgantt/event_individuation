@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "event-individuation"
+version = "0.1.0"
+description = "Data, analysis, and other materials for the paper \"On Event Individuation for Document-Level Information Extraction\" on\" (EMNLP: Findings, 2"
+authors = ["Will Gantt <wgantt.iv@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+notebook = "^7.0.6"
+simpledorff = "^0.0.2"
+pandas = "^2.1.1"
+
+[tool.poetry.group.dev.dependencies]
+numpy = "^1.26.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
